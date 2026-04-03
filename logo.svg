@@ -11,6 +11,6 @@
   </defs>
   <text x='50%' y='55%' dominant-baseline='middle' text-anchor='middle' 
         font-family='Arial, Helvetica, sans-serif' font-size='80' font-weight='bold' font-style='italic'
-        fill='url(#grad1)' filter='url(#shadow)'>Moklgy</text>
+        fill='url(#grad1)' filter='url(#shadow)'>Mokylp</text>
   <path d='M 50 110 Q 200 140 350 110' fill='transparent' stroke='#00ffcc' stroke-width='4' stroke-linecap='round' />
 </svg>

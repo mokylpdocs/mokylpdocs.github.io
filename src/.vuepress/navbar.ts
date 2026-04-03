@@ -182,9 +182,9 @@ export default navbar([
          link: "工作心得/"
        },
        {
-         text: "女性测试工程师",
+         text: "测试工程师",
          icon: "venus",
-         link: "女性测试/"
+         link: "测试/"
        }
      ]
   },

@@ -105,7 +105,7 @@ def test_get_user():
 def test_create_user():
     url = "https://api.example.com/users"
     payload = {
-        "name": "测试小姐姐",
+        "name": "边界测试官",
         "email": "test@example.com"
     }
     headers = {
@@ -155,7 +155,7 @@ def test_create_user():
 
 ---
 
-> 💡 **测试小姐姐的话**：
+> 💡 **边界测试官的话**：
 > 
 > 接口测试是测试金字塔的中间层，投入产出比最高！掌握接口测试技能，能让你的测试效率大大提升。
 > 

@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "测试小姐姐的技术花园 🌸",
+  title: "边界测试官的技术花园 🌸",
   description: "女性软件测试工程师的成长笔记与技术分享",
   head: [
     ["link", { rel: "icon", href: "/logo.svg" }]
@@ -16,4 +16,3 @@ export default defineUserConfig({
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });
-

@@ -1,7 +1,7 @@
 ---
 home: true
 icon: heart
-title: 测试小姐姐的技术花园
+title: 边界测试官的技术花园
 heroImage: /me.png
 heroImageStyle:
   max-width: 300px
@@ -11,7 +11,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
 bgImageStyle:
   background-attachment: fixed
   opacity: 0.8
-heroText: 欢迎来到测试小姐姐的技术花园 🌸
+heroText: 欢迎来到边界测试官的技术花园 🌸
 tagline: 💝 用心测试 · 精益求精 · 记录成长之路 · 分享测试智慧 💝
 actions:
   - text: 开始探索
@@ -72,7 +72,7 @@ highlights:
 
       - title: 职场成长分享 🌱
         icon: seedling
-        details: 测试职业规划、工作心得、女性测试工程师的成长之路。
+        details: 测试职业规划、工作心得、测试工程师的成长之路。
         link: /职场成长/职业规划/
 
 copyright: false
@@ -87,11 +87,11 @@ footer: 用心测试，让世界更美好 💝
 
 这是一个专注于**软件测试**的技术博客，记录我在测试领域的学习、实践和思考。
 
-作为一名女性测试工程师，我希望通过这个平台：
+作为一名测试工程师，我希望通过这个平台：
 - 📝 分享测试技术知识和实战经验
 - 🚀 记录自动化测试、性能测试等技术的学习历程
 - 💡 探讨测试工具和最佳实践
-- 🌈 分享职场成长和女性测试工程师的独特视角
+- 🌈 分享职场成长和测试工程师的独特视角
 
 ## 🎯 学习路线
 
